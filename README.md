@@ -6,9 +6,15 @@ This space showcases a collection of my IT projects — each designed to simulat
  
 Feel free to explore my repositories below and connect with me on [LinkedIn](www.linkedin.com/in/josiasdelbois) if you'd like to collaborate or learn more about my work!
 
-<h2>Hospitality IT Projects:</h2>
+<h2>🏢 Hospitality IT Projects:</h2>
 
+<b>VM Domain Controller Lab (Oracle VirtualBox)</b>
 
+<b>VM Server Migration Lab</b>
+
+<b>VM Domain Controller Lab</b>
+
+<b>Wireless Signal Infrastructure Upgrade</b>
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
  
