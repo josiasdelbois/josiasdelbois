@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a cybersecurity graduate with a strong foundat
  
 This space showcases a collection of my cybersecurity lab projects — each designed to simulate real-world enterprise environments, enhance technical proficiency, and demonstrate my ability to apply cybersecurity principles in practice.
  
-Feel free to explore my repositories below and connect with me on [LinkedIn](https://www.linkedin.com/in/zee-williams) if you'd like to collaborate or learn more about my work!
+Feel free to explore my repositories below and connect with me on [LinkedIn](www.linkedin.com/in/josiasdelbois) if you'd like to collaborate or learn more about my work!
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
  
