@@ -1,8 +1,8 @@
 # Hi, I'm Josias! 
  
-Welcome to my GitHub profile! I'm a cybersecurity graduate with a strong foundation in information security, network defense, and incident response. With hands-on experience deploying secure systems, analyzing threats, and building security-first infrastructure, I’m passionate about protecting digital environments and continuously learning.
+Welcome to my GitHub profile! I'm an experienced IT professional specializing in systems analysis, infrastructure management, and vendor coordination across a 2,600+ room Marriott triplex. I’ve led multi-property operations, supported major system rollouts, and enforced compliance standards while delivering reliable, scalable technology solutions. With a strong focus on problem-solving, collaboration, and operational excellence, I thrive in dynamic environments where technology and hospitality intersect.
  
-This space showcases a collection of my cybersecurity lab projects — each designed to simulate real-world enterprise environments, enhance technical proficiency, and demonstrate my ability to apply cybersecurity principles in practice.
+This space showcases a collection of my IT projects — each designed to simulate real-world enterprise environments, enhance technical proficiency, and demonstrate my ability to apply technical principles in practice.
  
 Feel free to explore my repositories below and connect with me on [LinkedIn](www.linkedin.com/in/josiasdelbois) if you'd like to collaborate or learn more about my work!
  
