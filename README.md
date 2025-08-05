@@ -5,6 +5,10 @@ Welcome to my GitHub profile! I'm an experienced IT professional specializing in
 This space showcases a collection of my IT projects — each designed to simulate real-world enterprise environments, enhance technical proficiency, and demonstrate my ability to apply technical principles in practice.
  
 Feel free to explore my repositories below and connect with me on [LinkedIn](www.linkedin.com/in/josiasdelbois) if you'd like to collaborate or learn more about my work!
+
+<h2>Hospitality IT Projects:</h2>
+
+
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
  
