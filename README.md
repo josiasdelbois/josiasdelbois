@@ -19,20 +19,6 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](www
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
  
-<!-- 1. Workstation VM Deployment (Marvel Lab) -->
-- <b>Workstation VM Deployment (Marvel Lab)</b>  
- - [View Repository](https://github.com/zeewilliams/workstation-vm-deployment)  
- - Automated deployment of Windows 10 VMs into a Marvel-themed Active Directory domain using PowerShell.  
- - <img src="https://github.com/zeewilliams/workstation-vm-deployment/blob/main/Users-Active%20Directory.png?raw=true" alt="Marvel Active Directory Users Screenshot" width="400"/>  
- <br/>
- 
-<!-- 2. Marvel-Themed Domain Controller Lab -->
-- <b>Marvel-Themed Domain Controller Lab</b>  
- - [View Repository](https://github.com/zeewilliams/marvel-domain-controller-lab)  
- - Built a Windows Server Domain Controller with Marvel-themed users, GPOs, and realistic enterprise policies.  
- - <img src="https://github.com/zeewilliams/marvel-domain-controller-lab/blob/main/Marvel-Server.png?raw=true" alt="Marvel Domain Controller Screenshot" width="400"/>  
- <br/>
- 
 <!-- 3. THM Threat Intelligence Tools -->
 - <b>THM Threat Intelligence Tools</b>  
  - [View Repository](https://github.com/zeewilliams/threat-intelligence-lab)  
