@@ -9,6 +9,9 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](www
 <h2>🏢 Hospitality IT Projects:</h2>
 
 <b>VM Domain Controller Lab</b>
+- Configured VM with Windows Server 2019 as domain controller, enabling AD, DHCP, and dual network access.
+- View Repository
+- Image
 
 <b>VM Server Migration Lab</b>
 
