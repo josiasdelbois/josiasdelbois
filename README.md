@@ -16,7 +16,10 @@ Feel free to explore my repositories below and connect with me on [LinkedIn](www
 <b>VM Server Migration Lab</b>
 
 <b>Wireless Signal Infrastructure Upgrade</b>
- 
+- Led cellular signal upgrade by surveying weak zones, designing booster system, and coordinating vendors and stakeholders.
+- View Repository
+- Image 
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
  
 <!-- 3. THM Threat Intelligence Tools -->
