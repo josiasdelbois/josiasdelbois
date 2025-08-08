@@ -1,8 +1,8 @@
-# Hi, I'm Josias! 
+#👋 Welcome to My GitHub! 
  
-Welcome to my GitHub profile! I'm an experienced IT professional specializing in systems analysis, infrastructure management, and vendor coordination across a 2,600+ room Marriott triplex. I’ve led multi-property operations, supported major system rollouts, and enforced compliance standards while delivering reliable, scalable technology solutions. With a strong focus on problem-solving, collaboration, and operational excellence, I thrive in dynamic environments where technology and hospitality intersect.
- 
-This space showcases a collection of my IT projects — each designed to simulate real-world enterprise environments, enhance technical proficiency, and demonstrate my ability to apply technical principles in practice.
+I'm Josias Del Bois Almonte, a Systems Analyst with hands-on experience in network administration, cybersecurity, and enterprise IT support. I specialize in maintaining secure, efficient systems — from troubleshooting and infrastructure upgrades to vendor coordination and compliance audits.
+
+This space features my technical projects, showcasing real-world applications in network design, security, and system optimization. I'm passionate about building resilient environments and driving continuous improvement across IT operations.
  
 Feel free to explore my repositories below and connect with me on
 [LinkedIn](https://www.linkedin.com/in/josiasdelbois/) if you'd like to collaborate or learn more about my work!
