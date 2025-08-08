@@ -22,7 +22,7 @@ Feel free to explore my repositories below and connect with me on
 <b>Wireless Signal Infrastructure Upgrade</b>
 - Led cellular signal upgrade by surveying weak zones, designing booster system, and coordinating vendors and stakeholders.
 - View Repository
-- Image 
+- ![Antenna Project cover photo]() 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
  
