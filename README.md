@@ -12,12 +12,14 @@ Feel free to explore my repositories below and connect with me on
 <b>VM Domain Controller Lab</b>
 - Configured VM with Windows Server 2019 as domain controller, enabling AD, DHCP, and dual network access.
 - View Repository
-- Image
+
+![Image Place Holder]()
 
 <b>VM Server Migration Lab</b>
 - Replace Windows Server 2016 domain controllers with Windows Server 2022 to meet global deadline.
 - View Repository
-- Image
+
+![Image Place Holder]()
 
 <b>Wireless Signal Infrastructure Upgrade</b>
 - Led cellular signal upgrade by surveying weak zones, designing booster system, and coordinating vendors and stakeholders.
