@@ -1,6 +1,6 @@
-#👋 Welcome to My GitHub! 
+# 👋 Welcome to My GitHub! 
  
-I'm Josias Del Bois Almonte, a Systems Analyst with hands-on experience in network administration, cybersecurity, and enterprise IT support. I specialize in maintaining secure, efficient systems — from troubleshooting and infrastructure upgrades to vendor coordination and compliance audits.
+I'm Josias, a Systems Analyst with hands-on experience in network administration, cybersecurity, and enterprise IT support. I specialize in maintaining secure, efficient systems — from troubleshooting and infrastructure upgrades to vendor coordination and compliance audits.
 
 This space features my technical projects, showcasing real-world applications in network design, security, and system optimization. I'm passionate about building resilient environments and driving continuous improvement across IT operations.
  
