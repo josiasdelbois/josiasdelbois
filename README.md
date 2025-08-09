@@ -26,14 +26,7 @@ Please explore my labs and projects below, and feel free to connect with me on
 - [View Repository]()
 
 ![Antenna Project cover photo](https://github.com/josiasdelbois/josiasdelbois/blob/main/assets/Antenna%20Project%20Photo%201.1.png) 
-
- 
    
-<h2>👨🏽‍🎓 Certifications</h2>
- 
- 
-<h2>💼 Projects I Want to Build Next</h2>
- 
+<h2>👨🏽‍🎓 Certifications</h2> 
  
 <h2>🎯 Career Goals for 2025</h2>
- 
