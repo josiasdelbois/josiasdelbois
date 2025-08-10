@@ -23,7 +23,7 @@ Please explore my labs and projects below, and feel free to connect with me on
 
 <b>Wireless Signal Infrastructure Implementation</b>
 - Led cellular signal upgrade by surveying weak zones, designing booster system, and coordinating vendors and stakeholders.
-- [View Repository]()
+- [View Repository](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/README.md)
 
 ![Antenna Project cover photo](https://github.com/josiasdelbois/josiasdelbois/blob/main/assets/Antenna%20Project%20Photo%201.1.png) 
    
