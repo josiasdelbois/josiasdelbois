@@ -26,7 +26,16 @@ Please explore my labs and projects below, and feel free to connect with me on
 - [View Repository](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/README.md)
 
 ![Antenna Project cover photo](https://github.com/josiasdelbois/josiasdelbois/blob/main/assets/Antenna%20Project%20Photo%201.1.png) 
-   
-<h2>👨🏽‍🎓 Certifications</h2> 
- 
-<h2>🎯 Career Goals for 2025</h2>
+
+<h2>👨🏽‍🎓 Education</h2>
+
+Valencia College - Kissimmee, Florida
+Associate in Science – Cybersecurity and Network Engineering Technology, Expected 2027
+
+Florida Technical College - Kissimmee, Florida
+Associate in Science – Business Management Tech, May 2016
+
+<h2>📜 Certifications</h2> 
+
+Comptia Project+ - In progress
+
