@@ -8,7 +8,7 @@ Please explore my labs and projects below, and feel free to connect with me on
 <h2>🏢 IT Labs:</h2>
 
 <b>VM Domain Controller Lab</b>
-- Configured VM with Windows Server 2019 as domain controller, enabling AD, DHCP, and dual network access.
+- Configured VM with Windows Server 2022 as domain controller, enabling AD, DHCP, and dual network access.
 - [View Repository](https://github.com/josiasdelbois/VirtualBox_Domain_Controller_Lab)
 
 ![Image Place Holder](https://github.com/josiasdelbois/VirtualBox_Domain_Controller_Lab/blob/main/Asset/VirtualBox%20Domain%20Controller%20Lab%20Diagram.png)
