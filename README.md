@@ -15,12 +15,6 @@ Please explore my labs and projects below, and feel free to connect with me on
 
 <h2>🏢 IT Projects:</h2>
 
-<b>VM Server Migration Lab</b>
-- Replace Windows Server 2016 domain controllers with Windows Server 2022 to meet global deadline.
-- [View Repository]()
-
-![Image Place Holder]()
-
 <b>Wireless Signal Infrastructure Implementation</b>
 - Led cellular signal upgrade by surveying weak zones, designing booster system, and coordinating vendors and stakeholders.
 - [View Repository](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/README.md)
